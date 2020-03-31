@@ -10,7 +10,7 @@ There are two ways to run this program.
 - It looks for "filename" in the "/input/" folder. Please place your input file there before running. 
 
 1) Run `npm run start`
-- If no filename is provided, it automatically uses the file "/input/input.txt". You can also paste your file in this one before you run. 
+- If no filename is provided, it automatically uses the file "/input/input.txt". You can also paste your file in this one before you run this command. 
 
 Note: All of the above commands must be run in the highest level project directory (where main.js is)
 
