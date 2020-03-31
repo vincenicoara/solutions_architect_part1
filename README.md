@@ -7,7 +7,7 @@
 There are two ways to run this program.
 
 1) Run `npm run start <filename>`. 
-- It looks for "filename" in the "/input/" folder. Please place your input file there before running. 
+- It looks for "filename" in the "/input/" folder. Please place your input file/s there before running.
 
 1) Run `npm run start`
 - If no filename is provided, it automatically uses the file "/input/input.txt". You can also paste your file in this one before you run this command. 
