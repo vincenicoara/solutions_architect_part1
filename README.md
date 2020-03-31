@@ -5,14 +5,18 @@
 
 ### How to run:
 There are two ways to run this program.
+
+1) Run `npm run start <filename>`. 
+- It looks for "filename" in the "/input/" folder. Please place your input file there before running. 
+
 1) Run `npm run start`
-- The above method will automatically read the file in "/input/input.txt", so you would have to paste your desired file in this one. 
-2) Run `npm run start <filename>`. 
-- When you provide the filename, it automatically looks in the "/input/" folder, so you will need to place it there beforehand for this command to run successfully. 
+- If no filename is provided, it automatically uses the file "/input/input.txt". You can also paste your file in this one before you run. 
 
 Note: All of the above commands must be run in the highest level project directory (where main.js is)
 
 ### How to run tests:
 - Run `npm run tests`
+
+### Let me know if you have any questions! :) 
 
 
